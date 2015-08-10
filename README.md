@@ -8,7 +8,11 @@ Ruby 2.2.0
 
 Pinterest style CRUD app 
 
-Will store data on AWS , use Devise for user login
+Data on AWS 
+
+Deployed on Heroku
+
+Devise for user login
 
 Image upload using Paperclip and ImageMagick
 

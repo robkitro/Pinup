@@ -30,7 +30,7 @@ class PinsController < ApplicationController
     respond_to do |format|
       if @pin.save
         format.html { redirect_to @pin, notice: 'Pin was successfully created.' }
-        format.json { render :show, status: :created, location: @pin }
+        #format.json { render :show, status: :created, location: @pin }
       else
         format.html { render :new }
         format.json { render json: @pin.errors, status: :unprocessable_entity }

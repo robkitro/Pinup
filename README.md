@@ -16,7 +16,9 @@ Devise for user login
 
 Image upload using Paperclip and ImageMagick
 
-You can view the app [here]: https://robkitro-pinup.herokuapp.com (Pinup!)
+Bootstrap and jQuery Masonry front end
+
+You can view the app here: https://robkitro-pinup.herokuapp.com (Pinup!)
 
 
 
